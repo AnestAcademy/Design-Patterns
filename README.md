@@ -24,3 +24,5 @@
 20. Mediator: Centralizes complex communications.
 21. Chain of Responsibility: Passes requests along a chain of handlers.
 22. Template Method: Defines the skeleton of an algorithm.
+
+<br />
